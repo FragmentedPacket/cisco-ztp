@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/FragmentedPacket/cisco-ztp)
 # Cisco IOS-XE Guestshell ZTP Script
 
 ### Overview
