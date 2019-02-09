@@ -1,4 +1,4 @@
-# Cisco IOS-XE Guestshell ZTP Script
+# Cisco IOS-XE Guestshell ZTP Script for Catalyst 9000 Series Switches
 
 ## Overview
 
